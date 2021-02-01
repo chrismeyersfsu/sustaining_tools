@@ -1,0 +1,7 @@
+saml/saml.crt
+saml/saml.pem
+saml/saml.key
+saml/sign_me
+saml/signature.binary
+saml/signature.base64
+saml/out/*
